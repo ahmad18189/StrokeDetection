@@ -4,3 +4,7 @@ Temp/__EditModeScene
 *.info
 Library/metadata/b1/b1bc03a13465c164885bf6f5d1917907
 *.log
+Library/assetDatabase3
+*.log
+*.log
+Library/shadercompiler-64bit-1.log
